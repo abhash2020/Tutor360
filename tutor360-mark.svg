@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Tutor360">
+  <rect width="64" height="64" rx="20" fill="#ff744d"/>
+  <path d="M15 20h34v7H36v23h-8V27H15z" fill="#fffaf5"/>
+  <path d="M48.7 34.5a12 12 0 1 0 1.5 8h-8a4.5 4.5 0 1 1-.8-4.2l5.7-5.8a11 11 0 0 0-1.4-1.2 12 12 0 0 0 3 3.2z" fill="#10243d"/>
+  <circle cx="47.5" cy="19" r="3.5" fill="#f4c85a"/>
+</svg>
